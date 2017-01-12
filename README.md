@@ -14,8 +14,7 @@ npm start
 
 ## Folder structure
 
-    +-- js
-    |   +-- app.js
+    +-- app.js
 
 ## Deploying the app
 
