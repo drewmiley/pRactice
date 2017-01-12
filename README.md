@@ -1,6 +1,6 @@
 # pRactice
 
-Ractive project
+Ractive dummy project setup with bootstrap, babel, and webpack.
 
 ## Running the app
 
@@ -14,7 +14,12 @@ npm start
 
 ## Folder structure
 
+    +-- app.html
     +-- app.js
+    +-- components
+    |	+-- NameInput.js
+    |	+-- views
+    |	|	+-- name-input.html
 
 ## Deploying the app
 
